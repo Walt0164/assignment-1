@@ -51,7 +51,7 @@
     <section>
       <h2>Latest Episodes</h2>
       <article>
-        <img src="/images/time-travel-climate-change.jpeg" alt="Time Travel CLimate Change" width="250">
+        <img src="images/time-travel-climate-change.jpeg" alt="Time Travel CLimate Change" width="250">
         <h3>Time-Traveling Political Debates</h3>
 
         <p>A malfunctioning time machine throws politicians from different eras into a debate on current issues. From Victorian-era debates on social media regulation to ancient philosophers discussing climate change, we explore the hilarious clashes of ideologies across the centuries.</p>
@@ -73,17 +73,17 @@
 
 
       <article>
-        <img src="/images/ai-romance-experts.jpeg" alt="Ai romance experts" width="250">
+        <img src="images/ai-romance-experts.jpeg" alt="Ai romance experts" width="250">
         <h3>Robot Ramance Consultants</h3>
 
         <p>Robots become relationship experts, offering advice on love and dating. From algorithmic matchmaking to AI relationship therapy, we explore the comedic chaos of a world where artificial intelligence takes the lead in matters of the heart.</p>
 
-        <a href="/episodes/robot-romance-consultants.html" aria-label="Learn more about Robot Romance Consultants with a 30 minuite episode">Learn More</a>
+        <a href="episodes/robot-romance-consultants.html" aria-label="Learn more about Robot Romance Consultants with a 30 minuite episode">Learn More</a>
       </article>
 
        
       <article>
-        <img src="/images/world-leader-dance-off.jpeg" alt="World Leader dance off" width="250">
+        <img src="images/world-leader-dance-off.jpeg" alt="World Leader dance off" width="250">
         <h3>World Leaders' Dance-Off</h3>
         <p>In today's absurd political landscape, world leaders decide to settle international disputes through a dance-off competition. From Putin's unexpected breakdance moves to Merkel's precision twirls, find out who takes home the trophy and who ends up with two left feet in this hilarious episode.</p>
         <a href="/episodes/world-leaders-dance-off.html" aria-label="Learn more about world leaders dance off with a 30 
