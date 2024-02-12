@@ -1,3 +1,6 @@
+# assignment 1
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,12 +11,12 @@
 </head>
 <body>
   
-  <!-- Include the tag for introductory content -->
+  
   <header>
     
-    <!-- Display Laugh Track News logo nested in an anchor tag to link to index.html -->
+    
     <a href="index.html"></a>
-    <img src="../images/laugh-track-news-logo.svg" alt="Laugh Track Logo">
+    <img src="images/laugh-track-news-logo.svg" alt="Laugh Track Logo">
 
     <nav>
       <ul>
@@ -29,18 +32,15 @@
 
     </nav>
   </header>
-    <!-- Write the markup for a navigation and link items to appropriate pages -->
+    
 
-        <!-- About the podcast can use # as a placeholder to keep the user on this page. -->
-        
-
-        <!-- Link to external url: https://open.spotify.com/genre/podcasts-page  -->
+       
         
 
 
 
    
-  <!-- Add an element that represents the main content of the page -->
+  
   <main>
     <header>
       <section>
@@ -61,30 +61,14 @@
         <a href="../episodes/time-traveling-political-debates.html" aria-label="Learn more about Time traveling political debates with a 30 minuite podcast">Learn More</a>
     </section>
   </main>
-    <!-- Main heading for the page -->
-
-    <!-- Include a tag that groups the about our podcast paragraphs -->
-    
+   
     
       
 
     
-    <!-- Include a tag that groups the 'Latest episodes' content -->
-
-      <!-- Section heading -->
-      
-
-
-      <!-- Include a tag for independent, self-contained content content -->
-
-        <!-- Display image relevant to topic and set the width attribute to 250 -->
-
-        <!-- Section sub-heading -->
-        
+    
 
        
-
-        <!-- Link to existing html page within episodes directory; relevant to topic -->
         
 
 
@@ -99,20 +83,7 @@
         <a href="../episodes/robot-romance-consultants.html" aria-label="Learn more about Robot Romance Consultants with a 30 minuite episode">Learn More</a>
       </article>
 
-        <!-- Display image relevant to topic and set the width attribute to 250 -->
-
-        <!-- Section sub-heading -->
-        
-        
-        
-
-        <!-- Link to existing html page within episodes directory; relevant to topic -->
-        
-
-
-
-
-      <!-- Include a tag for independent, self-contained content content -->
+       
       <article>
         <img src="../images/world-leader-dance-off.jpeg" alt="World Leader dance off" width="250">
         <h3>World Leaders' Dance-Off</h3>
@@ -122,13 +93,6 @@
 
         
       </article>
-        <!-- Display image relevant to topic and set the width attribute to 250 -->
-
-        <!-- Section sub-heading -->
-        
-
-        
-        <!-- Link to existing html page within episodes directory; relevant to topic -->
         
 
 
@@ -142,6 +106,6 @@
 </body>
 
 
-    <!-- Include the tag for footer content -->
+   
   
 </html>
